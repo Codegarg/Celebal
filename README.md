@@ -7,8 +7,9 @@ Python learning exercises and practice programs completed as part of the Celebal
 | Folder | Topics |
 | --- | --- |
 | [Day 1](Day-1/README.md) | Python foundations, input and output, calculations, functions, validation, recursion, modules, dates and times, randomness, and statistics. |
+| [Day 2](Day-2/README.md) | Randomized data, performance measurement, retail invoicing, string processing, and regular expressions. |
 
-The [Day 1 guide](Day-1/README.md) lists each lesson folder and program, explains what it practices, and suggests an order for working through the exercises.
+The [Day 1 guide](Day-1/README.md) and [Day 2 guide](Day-2/README.md) list their lesson folders and programs, explain what each exercise practices, and suggest an order for working through the material.
 
 ## Getting Started
 
